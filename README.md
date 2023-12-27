@@ -1,2 +1,5 @@
 # Odoo with docker
-For deploy on server follow the instructions.
+
+:no_entry_sign: For deploy on server follow the instructions. for default password db is insecure.
+
+For development clone and run docker compose, then clone your repo in ./addons.
